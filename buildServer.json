@@ -1,0 +1,19 @@
+{
+	"name": "xcode build server",
+	"version": "0.2",
+	"bspVersion": "2.0",
+	"languages": [
+		"c",
+		"cpp",
+		"objective-c",
+		"objective-cpp",
+		"swift"
+	],
+	"argv": [
+		"/usr/local/bin/xcode-build-server"
+	],
+	"workspace": "/Users/evesquare/git/FinderExtensionConvertGIF/FinderExtensionConvertGIF.xcodeproj/project.xcworkspace",
+	"build_root": "/Users/evesquare/Library/Developer/Xcode/DerivedData/FinderExtensionConvertGIF-gthdyeboutogulfhfbxbocuhcgji",
+	"scheme": "MovToGifConverter",
+	"kind": "xcode"
+}
